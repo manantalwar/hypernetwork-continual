@@ -1,0 +1,14 @@
+torch
+numpy
+scipy
+torchvision
+pandas
+matplotlib
+packaging
+bsub
+conllu
+GPUtil
+Pillow
+scikit_learn
+tensorboardX
+tensorflow
