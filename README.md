@@ -6,9 +6,9 @@ This is a project for CS591/691NR: Neural Networks for Neuroscience and Engineer
 
 **Current Architectures implemented**: 
 
-MLP (hypernetwork) --> LeNet (Main Network) for MNIST dataset
-MLP (hypernetwork) --> LeNet (Main Network) for SplitMNIST dataset
-MLP (hypernetwork) --> ResNet (Main Network) for Cifar10 dataset
+1. MLP (hypernetwork) --> LeNet (Main Network) for MNIST dataset
+2. MLP (hypernetwork) --> LeNet (Main Network) for SplitMNIST dataset
+3. MLP (hypernetwork) --> ResNet (Main Network) for Cifar10 dataset
 
 
 
