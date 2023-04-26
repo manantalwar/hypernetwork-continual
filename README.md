@@ -1,6 +1,4 @@
-# hypernetwork-continual
-
-## Preventing Catastrophic Forgetting in Neural Networks with Brain-Inspired Frameworks: Manan Talwar and Sneha Pullanoor
+#Preventing Catastrophic Forgetting in Neural Networks with Brain-Inspired Frameworks: Manan Talwar and Sneha Pullanoor
 
 This is a project for CS591/691NR: Neural Networks for Neuroscience and Engineering
 
